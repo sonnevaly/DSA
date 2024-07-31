@@ -21,8 +21,8 @@ if(a == 30 || b == 30 || a + b == 30 ){
 
 int main (){
 
-printf("%d\n",Find(25 , 5));
-printf("%d\n",Find(20, 30));
-printf("%d\n",Find(20 , 25));
+    printf("%d\n",Find(25 , 5));
+    printf("%d\n",Find(20, 30));
+    printf("%d\n",Find(20 , 25));
     return 0;
 }
