@@ -24,5 +24,6 @@ int main (){
     printf("%d\n",Find(25 , 5));
     printf("%d\n",Find(20, 30));
     printf("%d\n",Find(20 , 25));
+    
     return 0;
 }
