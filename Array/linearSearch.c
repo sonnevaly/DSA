@@ -13,7 +13,7 @@ int main(){
     
     int array[]={0,2,6,7,11,1,4,3};
     int tarNumber;
-    int size= sizeof(array) / sizeof(array[0]);
+    int size = sizeof(array) / sizeof(array[0]);
     
     printf("Enter a value: ");
     scanf("%d",&tarNumber);
